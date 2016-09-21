@@ -1,6 +1,6 @@
 <?php
 
-echo "MENSAJE PARA MOSTRAR";
+echo "KINO JIMENEZ";
 
 
   ?>
